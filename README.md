@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Vinay Tajane
+- 😎 I have basic knowledge of html, css & c
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Web designing
 - 💞️ I’m looking to collaborate on Web developing
