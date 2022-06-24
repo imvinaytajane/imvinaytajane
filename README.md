@@ -3,7 +3,7 @@
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Web designing
 - 💞️ I’m looking to collaborate on Web developing
-- 📫 How to reach me @imvinatajane on Instagram
+- 📫 How to reach me <a href="https://www.instagram.com/imvinaytajane/">@imvinatajane</a> on Instagram
 
 <!---
 imvinaytajane/imvinaytajane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
