@@ -1,4 +1,7 @@
- <meta charset="UTF-8">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=<h1 align="center">Hi 👋, I'm Vinay Tajane</h1>
     <h3 align="center">A passionate frontend developer from India</h3>
@@ -24,3 +27,8 @@
     <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imvinaytajane&show_icons=true&locale=en" alt="imvinaytajane" /></p>
     
     <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imvinaytajane&" alt="imvinaytajane" /></p>
+</head>
+<body>
+    
+</body>
+</html>
