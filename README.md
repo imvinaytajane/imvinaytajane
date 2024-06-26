@@ -1,6 +1,6 @@
 
 <h1 align='center'>Hi 👋, I'm Vinay Tajane</h1>
-<h3 align="center">My name is Vinay. With great power in programming, problem-solving, and analytical thinking comes the great responsibility to safeguard people and organizations from threats. My adaptability allows me to tackle any challenge, and my unwavering commitment to adhering to laws, protecting people, and upholding integrity guides my every action. Driven by a strong sense of justice and honesty, I use my skills to ensure that those around me can sleep peacefully at night, knowing they are safe.</h3>
+<h3>With great power in programming, problem-solving, and analytical thinking comes the great responsibility to safeguard people and organizations from threats. My adaptability allows me to tackle any challenge, and my unwavering commitment to adhering to laws, protecting people, and upholding integrity guides my every action. Driven by a strong sense of justice and honesty, I use my skills to ensure that those around me can sleep peacefully at night, knowing they are safe.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imvinaytajane&label=Profile%20views&color=0e75b6&style=flat" alt="imvinaytajane" /> </p>
 
