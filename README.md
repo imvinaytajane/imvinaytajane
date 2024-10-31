@@ -1,7 +1,7 @@
 
 ![Vinay Banner](./assets/VinayTajane.gif)
 ## About me:
-Hello, my name is Vinay Tajane, and I am a B.Tech graduate in Electronics and Telecommunication from the Government College of Engineering, Nagpur. As an aspiring cybersecurity professional, I am driven by a deep fascination with technology and a strong commitment to protecting digital assets from cyber threats. My academic background and foundational knowledge in cybersecurity have equipped me with a solid base that I am eager to apply in this field.
+Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="15">, my name is Vinay Tajane, and I am a B.Tech graduate in Electronics and Telecommunication from the Government College of Engineering, Nagpur. As an aspiring cybersecurity professional, I am driven by a deep fascination with technology and a strong commitment to protecting digital assets from cyber threats. My academic background and foundational knowledge in cybersecurity have equipped me with a solid base that I am eager to apply in this field.
 
 ---
 <div Style="text-align:center;">
