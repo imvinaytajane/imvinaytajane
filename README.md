@@ -18,13 +18,13 @@ Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/
     <td>Certified in Cybersecurity (CC)</td>
     <td>ISC2</td>
     <td>Oct 2024</td>
-    <td><a href="#">Verify</a></td>
+    <td><a href="https://www.credly.com/badges/8c6ae0fa-c4e9-47c5-9069-40422544566d/">Verify</a></td>
   </tr>
    <tr>
     <td>Google Cybersecurity Professional Certificate</td>
     <td>Google</td>
     <td>Aug 2024</td>
-    <td><a href="#">Verify</a></td>
+    <td><a href="https://www.credly.com/badges/125ca6ce-54dc-436e-b22b-672f76858341/">Verify</a></td>
   </tr>
  </table>
 
@@ -50,7 +50,7 @@ Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/
     <td><a href="#">86.2%</a></td>
   </tr>
   <tr>
-    <td>10th CBSE Board</td>
+    <td>10th CBSE</td>
     <td>Jawahar Navodaya Vidyalaya, Wardha</td>
     <td>2018</td>
     <td><a href="#">83.2%</a></td>
@@ -84,17 +84,3 @@ Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
-<!--
-**imvinaytajane/imvinaytajane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
